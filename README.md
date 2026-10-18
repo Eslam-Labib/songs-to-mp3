@@ -36,7 +36,7 @@ Close and reopen your terminal after installing ffmpeg, then check it with `ffmp
 Download `songs_to_mp3.py` from this repo (or clone it):
 
 ```
-git clone https://github.com/YOUR-USERNAME/songs-to-mp3.git
+git clone https://github.com/Eslam-Labib/songs-to-mp3.git
 cd songs-to-mp3
 ```
 
